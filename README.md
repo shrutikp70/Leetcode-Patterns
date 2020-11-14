@@ -50,7 +50,7 @@ In addition, you should have a good grasp on common algorithms such as:
 Other useful methods to know include [`substring()`](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#substring-int-int-), [`toCharArray()`](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#toCharArray--), [`Math.max()`](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html#max-int-int-),
 [`Math.min()`](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html#min-int-int-), and [`Arrays.fill()`](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html#fill-int:A-int-).
 
-## Question List
+## Question List [website]
 
 The entire question list can be found here:
 https://seanprashad.com/leetcode-patterns/.
@@ -59,7 +59,8 @@ In addition to viewing the question list, companies that have previously asked
 the question in the past 6 months (_as of January 2020_) will be listed. You can
 also use the checkboxes to mark which questions you've completed!
 
-## Question List
+## Question List [manual]
+-Using the website above is the best option, I'm adding the list below just incase!
 
 <details>
    	<summary>Arrays</summary>
